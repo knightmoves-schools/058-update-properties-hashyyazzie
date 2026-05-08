@@ -1,5 +1,5 @@
 let person = {
-  name: "Craig"
+  name: "Craig",
     age: 0
 };
 function celebrateBirthday(person) {
